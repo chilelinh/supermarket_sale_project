@@ -1,0 +1,10 @@
+branch,payment,sum(quantity)
+A,Ewallet,707
+C,Cash,696
+A,"Credit card",580
+C,Ewallet,592
+B,"Credit card",599
+B,Ewallet,593
+B,Cash,628
+A,Cash,572
+C,"Credit card",543
