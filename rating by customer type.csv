@@ -1,3 +1,0 @@
-customer_type,"round(avg(rating),2)",sum(quantity)
-Member,6.94,2785
-Normal,7.01,2725
